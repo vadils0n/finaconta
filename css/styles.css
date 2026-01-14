@@ -107,7 +107,7 @@ text.cls-4 {
     margin-top: -30px;
   }
   svg {
-    width: 120px;
+    width: 500px;
   }
   div.logo img {
     width: 15rem;
@@ -137,4 +137,5 @@ text.cls-4 {
     gap: 40px;
   }
 }
+
 
