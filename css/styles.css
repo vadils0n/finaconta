@@ -106,14 +106,14 @@ text.cls-4 {
     width: 100%;
     margin-top: -30px;
   }
-  svg {
-    width: 500px;
+  svg#Camada_2 {
+    width: 120px;
   }
   div.logo img {
     width: 15rem;
   }
   svg#stroke {
-    top: 16em;
+    top: 10.5em;
     width: 10rem;
   }
   h1 {
@@ -137,5 +137,3 @@ text.cls-4 {
     gap: 40px;
   }
 }
-
-
