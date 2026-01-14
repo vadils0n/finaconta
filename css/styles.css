@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-.bg {
+div.bg {
   position: fixed;
   top: 0;
   left: 0;
@@ -46,7 +46,7 @@ p {
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
   text-align: center;
 }
-.texto {
+div.texto {
   width: 1000px;
   display: flex;
   flex-direction: column;
@@ -70,7 +70,7 @@ svg {
     stroke-dashoffset: 0;
   }
 }
-.logo {
+div.logo {
   animation: flutter 3s infinite;
 }
 @keyframes flutter {
@@ -88,9 +88,9 @@ text.cls-3 {
   stroke-width: 2px;
 }
 
-/* End of file ccs/styles.css */
+/* End of file css/styles.css */
 @media screen and (max-width: 768px) {
-  .texto {
+  div.texto {
     width: 100%;
     margin-top: -30px;
     padding: 10px;
